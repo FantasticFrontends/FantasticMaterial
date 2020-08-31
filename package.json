@@ -1,0 +1,47 @@
+{
+  "name": "fantasticmaterial",
+  "version": "1.0.0",
+  "description": "A modern, universal (Android, iOS, Web, macOS, Windows, Linux), React Native UI components library and UX framework based on Google's Material Design",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FantasticFrontends/FantasticMaterial.git"
+  },
+  "keywords": [
+    "user interface",
+    "user interaction",
+    "user experience",
+    "ui",
+    "ux",
+    "ui/ux",
+    "material design",
+    "visual",
+    "components",
+    "library",
+    "react",
+    "react native",
+    "universal",
+    "web",
+    "multiplatform",
+    "electron",
+    "web",
+    "mobile",
+    "iphone",
+    "ipad",
+    "android",
+    "ios",
+    "macos",
+    "macOS",
+    "windows",
+    "linux"
+  ],
+  "author": "Javier Silva Ortíz <silvaortizjavier@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FantasticFrontends/FantasticMaterial/issues"
+  },
+  "homepage": "https://github.com/FantasticFrontends/FantasticMaterial#readme"
+}
